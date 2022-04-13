@@ -3,3 +3,56 @@ Repo for research papers for Mobile App Dev.
 All papers are submitted as mine own
 
 zblake7397@gmail.com
+
+-------------------------------------------------------------------
+
+Paper 2 References:
+
+@article {1282,
+ title = {The Emergence of Deepfake Technology: A Review},
+ journal = {Technology Innovation Management Review},
+ volume = {9},
+ year = {2019},
+ month = {11/2019},
+ pages = {40-53},
+ publisher = {Talent First Network},
+ chapter = {40},
+ address = {Ottawa},
+ keywords = {artificial intelligence, cybersecurity, deep learning, Deepfake, fake news},
+ issn = {1927-0321},
+ doi = {http://doi.org/10.22215/timreview/1282},
+ url = {timreview.ca/article/1282},
+ author = {Westerlund, Mika}
+}
+
+@misc{winick_2020,
+title={How acting as Carrie Fisher's puppet made a career for Rogue One's princess leia}, 
+url={https://www.technologyreview.com/2018/10/16/139739/how-acting-as-carrie-fishers-puppet-made-a-career-for-rogue-ones-princess-leia/}, 
+journal={MIT Technology Review}, 
+publisher={MIT Technology Review}, 
+author={Winick, Erin}, 
+year={2020}, 
+month={Apr}} 
+
+@misc{allyn_2022,
+title={Deepfake video of Zelenskyy could be 'tip of the iceberg' in Info War, experts warn}, url={https://www.npr.org/2022/03/16/1087062648/deepfake-video-zelenskyy-experts-war-manipulation-ukraine-russia}, 
+journal={NPR}, 
+publisher={NPR}, 
+author={Allyn, Bobby}, 
+year={2022}, 
+month={Mar}} 
+
+@misc{deng_yu_2014,
+title={Deep Learning: Methods and Applications}, 
+url={https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DeepLearning-NowPublishing-Vol7-SIG-039.pdf}, 
+journal={Foundations and Trends in Signal Processing},  
+author={Deng, L; Yu, D}, 
+year={2014}, 
+month={Oct}}
+
+@misc{pouget_mirza_Xu_warde_ozair_courville_bengio_yu_2014,
+title={Generative Adversarial Nets}, 
+url={https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf}, 
+journal={Departement d’informatique et de recherche op ´ erationnelle University of Montreal },  
+author={Pouget-Abadie, Jean; Goodfellow, Ian; Mirza, Mehdi; Xu, Bing; Warde-Farley, David; Ozair, Sherjil; Courville, Aaron; Bengio, Yoshua}, 
+year={2015}
